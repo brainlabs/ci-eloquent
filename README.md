@@ -8,8 +8,10 @@ Codeigniter 2.2.0 Integrated with Illuminate database eloquent from laravel 4.2.
 
 Installation
 =============
+run command :
+<pre class="brush: bash">
 composer install
-
+</pre>
 
 
 Use On Models
