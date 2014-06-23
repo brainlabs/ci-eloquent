@@ -15,12 +15,9 @@ composer install
 Use On Models
 =============
 
-class name_of_class extends ORM
-{
-	protected $table = "table_name";
-	
-	function __construct() 
-    {
+class name_of_class extends ORM{
+    protected $table = "table_name";
+    function __construct(){
         parent::__construct();
     }
 	
@@ -32,13 +29,10 @@ class name_of_class extends ORM
 Use On Controllers
 ==================
 
-class name_of_class extends CI_Controller
-{
-	function __construct() 
-    {
+class name_of_class extends CI_Controller{
+    function __construct(){
         parent::__construct();
-		
-		$this->load->model('model_name');
+	$this->load->model('model_name');
     }
 	
 }
