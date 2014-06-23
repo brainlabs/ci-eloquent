@@ -45,3 +45,11 @@ class name_of_class extends CI_Controller
 	
 }
 </pre>
+
+
+================
+Contact Me :
+Facebook : https://www.facebook.com/linuxfree
+Email : daud.simbolon@gmail.com
+
+
