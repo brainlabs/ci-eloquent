@@ -47,9 +47,7 @@ class name_of_class extends CI_Controller
 </pre>
 
 
-About Me
+Author
 ================
-
-Facebook : https://www.facebook.com/linuxfree <br/>
-Email : daud.simbolon@gmail.com
+Email : labsbrain@gmail.com
 
