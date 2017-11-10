@@ -9,14 +9,14 @@ Codeigniter 2.2.0 Integrated with Illuminate database eloquent from laravel 4.2.
 Installation
 =============
 run command :
-<pre class="brush: bash">
+<pre class="brush:bash">
 composer install
 </pre>
 
 
 Use On Models
 =============
-<pre class="brush: php">
+<pre class="brush:php">
 class name_of_class extends ORM
 {
     protected $table = "table_name";
@@ -34,7 +34,7 @@ class name_of_class extends ORM
 
 Use On Controllers
 ==================
-<pre class="brush: php">
+<pre class="brush:php">
 class name_of_class extends CI_Controller
 {
     function __construct()
